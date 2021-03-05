@@ -122,7 +122,7 @@ npm start
 
 ### **Author**
 
-ebinum83             <img src="https://avatars.githubusercontent.com/u/51938742?s=460&v=4" style="zoom:25%;" />
+ebinum83
 
 ### **Licence**
 
