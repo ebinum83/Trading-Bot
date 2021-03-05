@@ -1,0 +1,16 @@
+{
+  "apiKey": "",
+  "secret": "",
+  "password": "",
+  "telegramUserId": 123456789,
+  "marketPlace": "BTC",
+  "useFundPercentage": 15,
+  "takeProfitPct": 2.5,
+  "stopLossPct": 5,
+  "useStableMarket": true,
+  "stableMarket": "USDT",
+  "timeOrder": 45,
+  "timeFrame": "30m",
+  "timeFrameStableMarket": "1h",
+  "exchangeID": "binance"
+}

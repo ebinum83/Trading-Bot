@@ -1,0 +1,53 @@
+{
+  "name": "trading_bot",
+  "version": "0.2.5",
+  "description": "A trading bot for trading on various exchanges.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n/a"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "api",
+    "money",
+    "bitcoin",
+    "ethereum",
+    "ripple",
+    "litecoin",
+    "trade",
+    "ccxt",
+    "telegram",
+    "technicalindicators",
+    "binance",
+    "kucoin",
+    "bittrex",
+    "kraken",
+    "hitbtc",
+    "pionex"
+  ],
+  "author": "ebinum83",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "n/a"
+  },
+  "homepage": "n/a",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "axios": "^0.19.0",
+    "bottleneck": "^2.19.4",
+    "ccxt": "^1.18.988",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "prompts": "^2.1.0",
+    "technicalindicators": "^1.1.13"
+  },
+  "devDependencies": {}
+}
